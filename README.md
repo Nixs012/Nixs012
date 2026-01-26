@@ -22,4 +22,4 @@ Real Estate Listing Website
 
 Internships / Industrial Attachment
 
-Junior Developer roles
+Junior / Senior Developer roles
