@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Nixon Ali
 
-<!--
-**Nixs012/Nixs012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student | Junior Software & Web Developer | Kenya
 
-Here are some ideas to get you started:
+I build practical software solutions including web applications, POS systems, and database-driven systems. I’m eager to learn, contribute, and grow in real-world development environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+HTML, CSS, JavaScript, Bootstrap
+PHP, Java, VB.NET
+MySQL | Git & GitHub
+
+📌 Projects
+
+POS System (Sales & Stock Management)
+
+Mombasa Hamlets FC Website
+
+Real Estate Listing Website
+
+🎯 Open to
+
+Internships / Industrial Attachment
+
+Junior Developer roles
