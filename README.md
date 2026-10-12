@@ -1,8 +1,8 @@
 👋 Hi, I’m Nixon Ali
 
-💻 IT Student | Junior Software & Web Developer | Kenya
+💻 IT Support | Software Development | Automation
 
-I build practical software solutions including web applications, POS systems, and database-driven systems. I’m eager to learn, contribute, and grow in real-world development environments.
+I build practical software solutions, including web applications, ANDROID and iOS app development, POS systems, and database-driven systems. I’m eager to learn, contribute, and grow in real-world development environments.
 
 🛠️ Skills
 
@@ -17,6 +17,8 @@ POS System (Sales & Stock Management)
 Mombasa Hamlets FC Website
 
 Real Estate Listing Website
+
+etc
 
 🎯 Open to
 
